@@ -10,8 +10,8 @@ http.createServer((req, res) => {
 	let urlData = url.parse(req.url);
 	//console.dir(urlData);
 	let queryObj = querystring.parse(urlData.query);
-	console.dir(queryObj);
-	writeToMarKdownDoc(queryObj);
+        //console.dir(queryObj);
+	queryObj.title && queryObj.url && writeToMarKdownDoc(queryObj);
 	res.writeHead(200, {"Content-Type": "application/json"});
 	res.end(JSON.stringify({
 		code: 0,
