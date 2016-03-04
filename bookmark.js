@@ -44,7 +44,7 @@ function writeToFile(filename, data) {
 	fs.writeFile(filename, data, (err) => {
 		if (err) console.err(err);
 		console.log('saved ' + filename);
-		pushToGit();
+		pushToGit(filename);
 	});
 }
 
@@ -94,7 +94,8 @@ function writeToMarKdownDoc(obj) {
 function pushToGit(title) {
 	var cmds = [['git', ['add', '.']], ['git', ['commit', '-am', `"add ${title}"`]],['git', ['pull', '--rebase']], ['git', ['push']]];
 	cmds.forEach((cmd) => {
-		console.dir(spawnSync(cmd[0], cmd[1]));
+		let result = spawnSync(cmd[0], cmd[1]);
+		console.log(result.output.join('\n'));
 	});
 }
 
