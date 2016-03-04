@@ -40,7 +40,7 @@ function isNewFile(filename) {
 	}
 }
 
-function writeToFile(filename, data) {
+function writeToFile(filename, data, title) {
 	fs.writeFile(filename, data, (err) => {
 		if (err) console.err(err);
 		console.log('saved ' + filename);
@@ -56,7 +56,7 @@ function writeToMarKdownDoc(obj) {
 	if (!isNewFile(fileName)) {
 		data.push(`### ${date.getFullYear()}-${date.getMonth()}-${date.getDate()}<br />`)
 		data.push(`+ [${obj.title}](${obj.url})<br />\n`);
-		writeToFile(fileName, data.join('\n'));
+		writeToFile(fileName, data.join('\n'), obj.title);
 		return;
 	}
 	const rl = readline.createInterface({
@@ -87,12 +87,12 @@ function writeToMarKdownDoc(obj) {
 			data.push(`### ${date.getFullYear()}-${date.getMonth()}-${date.getDate()}<br />`)
 			data.push(`+ [${obj.title}](${obj.url})<br />\n`);
 		}
-		writeToFile(fileName, data.join('\n'));
+		writeToFile(fileName, data.join('\n'), obj.title);
 	});
 }
 
 function pushToGit(title) {
-	var cmds = [['git', ['add', '.']], ['git', ['commit', '-am', `"add ${title}"`]],['git', ['pull', '--rebase']], ['git', ['push']]];
+	var cmds = [['git', ['add', '.']], ['git', ['commit', '-am', `"add ${title}"`]],['git', ['pull', '--rebase']], ['git', ['push', 'origin', 'master']]];
 	cmds.forEach((cmd) => {
 		let result = spawnSync(cmd[0], cmd[1]);
 		console.log(result.output.join('\n'));
