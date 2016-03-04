@@ -12,9 +12,12 @@ http.createServer((req, res) => {
 	let queryObj = querystring.parse(urlData.query);
 	console.dir(queryObj);
 	writeToMarKdownDoc(queryObj);
-	res.writeHead({'Content-Type': 'plain'});
-	res.end('ok');
-}).listen(3000);
+	res.writeHead(200, {"Content-Type": "application/json"});
+	res.end(JSON.stringify({
+		code: 0,
+		msg : 'success'
+	}));
+}).listen(3175);
 
 
 function changeFilename () {
@@ -23,7 +26,13 @@ function changeFilename () {
 	let date = new Date();
 	if (date.getDate() === 1) {
 		name = data.getFullYear() + '_' + data.getMonth() + '.md'
-		fs.renameSync(fileName, name);
+		try {
+			let state = fs.state(name);
+			!state.isFile() && fs.renameSync(fileName, name);
+		}
+		catch (e){
+		    fs.renameSync(fileName, name);
+		}
 	}
 	return fileName;
 }
@@ -44,7 +53,7 @@ function writeToFile(filename, data, title) {
 	fs.writeFile(filename, data, (err) => {
 		if (err) console.err(err);
 		console.log('saved ' + filename);
-		pushToGit(filename);
+		//pushToGit(title);
 	});
 }
 
@@ -92,11 +101,22 @@ function writeToMarKdownDoc(obj) {
 }
 
 function pushToGit(title) {
-	var cmds = [['git', ['add', '.']], ['git', ['commit', '-am', `"add ${title}"`]],['git', ['pull', '--rebase']], ['git', ['push', 'origin', 'master']]];
+	var title = title || '';
+	var cmds = [
+	    ['git', ['add', '.']],
+	    ['git', ['commit', '-am', `"add ${title}"`]],
+	    ['git', ['pull', '--rebase']],
+	    ['git', ['push', 'origin', 'master']]
+	];
 	cmds.forEach((cmd) => {
 		let result = spawnSync(cmd[0], cmd[1]);
 		console.log(result.output.join('\n'));
 	});
 }
+var count = 1;
+setInterval(function(){
+	console.log('push to github');
+	pushToGit(count++);
+}, 1000 * 60 * 60 * 2);
 
 console.log('server start at 3000');
