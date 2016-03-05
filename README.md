@@ -1,4 +1,4 @@
-### 2016-2-4<br />
+### 2016-3-4<br />
 + [JavaScript全讲-架构原则透析](http://mp.weixin.qq.com/s?__biz=MzAxNjQwNDY0MQ==&mid=403997163&idx=1&sn=d0e303ad9a927f398bacbec8e6c4e3a6)<br />
 + [网络安全资料汇总 - 简书](http://www.jianshu.com/p/67e294106919)<br />
 + [Write code that is easy to delete, not easy to... — programming is terrible](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)<br />
