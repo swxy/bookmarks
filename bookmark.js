@@ -62,7 +62,7 @@ function writeToMarKdownDoc(obj) {
 	let inserted = false;
 	const date = new Date();
 	if (!isNewFile(fileName)) {
-		data.push(`### ${date.getFullYear()}-${date.getMonth()}-${date.getDate()}<br />`)
+		data.push(`### ${date.getFullYear()}-${date.getMonth()+1}-${date.getDate()}<br />`)
 		data.push(`+ [${obj.title}](${obj.url})<br />\n`);
 		writeToFile(fileName, data.join('\n'), obj.title);
 		return;
@@ -74,13 +74,13 @@ function writeToMarKdownDoc(obj) {
 	rl.on('line', (line) => {
 		if (!inserted && line.startsWith('###')) {
 
-			let data_str = line.slice(3, 3 + 10).trim();
-			if (new Date(data_str).getDate() === date.getDate()) {
+			let data_str = line.match(/\d{4}-\d{1,2}-\d{1,2}/)[0];
+			if (date_str && (new Date(data_str).getDate() === date.getDate())) {
 				data.push(line);
 				data.push(`+ [${obj.title}](${obj.url})<br />`);
 			}
 			else {
-				data.push(`### ${date.getFullYear()}-${date.getMonth()}-${date.getDate()}<br />`)
+				data.push(`### ${date.getFullYear()}-${date.getMonth()+1}-${date.getDate()}<br />`)
 				data.push(`+ [${obj.title}](${obj.url})<br />\n`);
 				data.push(line);
 			}
@@ -92,7 +92,7 @@ function writeToMarKdownDoc(obj) {
 	});
 	rl.on('close', () => {
 		if (!inserted) { //新建的文件
-			data.push(`### ${date.getFullYear()}-${date.getMonth()}-${date.getDate()}<br />`)
+			data.push(`### ${date.getFullYear()}-${date.getMonth()+1}-${date.getDate()}<br />`)
 			data.push(`+ [${obj.title}](${obj.url})<br />\n`);
 		}
 		writeToFile(fileName, data.join('\n'), obj.title);
@@ -112,10 +112,10 @@ function pushToGit(title) {
 		console.log(result.output.join('\n'));
 	});
 }
-var count = 1;
+
 setInterval(function(){
 	console.log('push to github');
-	pushToGit(count++);
+	pushToGit(new Date().toString());
 }, 1000 * 60 * 60 * 2);
 
-console.log('server start at 3000');
+console.log('server start at 3175');
