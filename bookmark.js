@@ -75,8 +75,8 @@ function writeToMarKdownDoc(obj) {
 	rl.on('line', (line) => {
 		if (!inserted && line.startsWith('###')) {
 
-			let data_str = line.match(/\d{4}-\d{1,2}-\d{1,2}/)[0];
-			if (date_str && (new Date(data_str).getDate() === date.getDate())) {
+			let date_str = line.match(/\d{4}-\d{1,2}-\d{1,2}/)[0];
+			if (date_str && (new Date(date_str).getDate() === date.getDate())) {
 				data.push(line);
 				data.push(`+ [${obj.title}](${obj.url})<br />`);
 			}
