@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "markToGithub",
+  "description": "保存书签到github上",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "book.png"
+  },
+  "icons": {
+    "16": "book.png",
+    "24": "book_24.png"
+  },
+  "background": {
+    "scripts": ["tab.js"],
+    "persistent": false
+  },
+  "permissions": [
+    "activeTab",
+    "contextMenus",
+    "tabs",
+    "http://*/",
+    "storage"
+  ]
+}
