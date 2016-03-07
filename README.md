@@ -1,3 +1,7 @@
+### 2016-3-7<br />
++ [Server-Side Rendering With React, Node And Express – Smashing Magazine](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/)<br />
++ [谈一谈前端多容器（多webview平台）处理方案 - 叶小钗 - 博客园](http://www.cnblogs.com/yexiaochai/p/5204847.html)<br />
+
 ### 2016-3-5<br />
 + [在 Chrome 开发者工具中调试 node.js | sqrtthree](http://blog.sqrtthree.com/2016/02/29/debugging-nodejs-in-chrome-devtools/)<br />
 
