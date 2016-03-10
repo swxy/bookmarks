@@ -1,4 +1,5 @@
 ### 2016-3-9<br />
++ [编程狂人 - 推酷技术周刊](http://www.tuicool.com/mags)<br />
 + [css属性的选择对动画性能的影响 – 携程设计委员会](http://ued.ctrip.com/blog/css-properties-selection-influence-on-performance-of-animation.html)<br />
 + [Set和Map数据结构 - ECMAScript 6入门](http://es6.ruanyifeng.com/#docs/set-map)<br />
 + [缓动函数速查表](http://easings.net/zh-cn#)<br />
