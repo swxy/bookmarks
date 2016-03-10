@@ -1,3 +1,6 @@
+### 2016-3-10<br />
++ [用NodeJS打造你的静态文件服务器 - CNode技术社区](https://cnodejs.org/topic/4f16442ccae1f4aa27001071)<br />
+
 ### 2016-3-9<br />
 + [编程狂人 - 推酷技术周刊](http://www.tuicool.com/mags)<br />
 + [css属性的选择对动画性能的影响 – 携程设计委员会](http://ued.ctrip.com/blog/css-properties-selection-influence-on-performance-of-animation.html)<br />
