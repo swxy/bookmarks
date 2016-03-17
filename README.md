@@ -1,3 +1,9 @@
+### 2016-3-17<br />
++ [要写易删除，而不是易扩展的代码](http://blog.yongfengzhang.com/cn/blog/write-code-that-is-easy-to-delete-not-easy-to/)<br />
++ [5 Tips For Writing More Maintainable JavaScript Code — Medium](https://medium.com/@Functionite/5-tips-for-writing-more-maintainable-javascript-code-b87de1147e94?utm_source=tuicool&utm_medium=referral)<br />
++ [Write code that is easy to delete, not easy to... — programming is terrible](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)<br />
++ [Node 应用的 Systemd 启动 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/03/node-systemd-tutorial.html?utm_source=tuicool&utm_medium=referral)<br />
+
 ### 2016-3-13<br />
 + [使用 React 写个简单的活动页面运营系统 – 设计篇 | Web前端 腾讯AlloyTeam Blog | 愿景: 成为地球卓越的Web团队！](http://www.alloyteam.com/2016/03/using-react-to-write-a-simple-activity-pages-design-of-operating-system-article/)<br />
 
