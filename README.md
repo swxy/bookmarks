@@ -1,3 +1,7 @@
+### 2016-3-22<br />
++ [Exploring ES6](http://exploringjs.com/es6/)<br />
++ [IntelliJ IDEA 注册码](http://idea.qinxi1992.cn/)<br />
+
 ### 2016-3-21<br />
 + [前端动画原理与实现](http://matrix.h5jun.com/slide/show?id=117#/)<br />
 
