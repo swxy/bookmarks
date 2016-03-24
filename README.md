@@ -1,3 +1,6 @@
+### 2016-3-24<br />
++ [Releases · shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android/releases)<br />
+
 ### 2016-3-22<br />
 + [Exploring ES6](http://exploringjs.com/es6/)<br />
 + [IntelliJ IDEA 注册码](http://idea.qinxi1992.cn/)<br />
