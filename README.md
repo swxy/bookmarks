@@ -1,3 +1,6 @@
+### 2016-3-29<br />
++ [JavaScript Rounding Recipes - 推酷](http://www.tuicool.com/articles/qiARzuf)<br />
+
 ### 2016-3-25<br />
 + [js 生成 yyyy-mm-dd 格式的逼格姿势 | Web技术试炼地](http://www.52cik.com/2016/03/25/js-date-format.html?utm_source=tuicool&utm_medium=referral)<br />
 
