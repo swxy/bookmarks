@@ -1,4 +1,10 @@
+### 2016-3-30<br />
++ [一个前端的自我修养 | Taobao FED | 淘宝前端团队](http://taobaofed.org/blog/2016/03/23/the-growth-of-front-end/)<br />
+
 ### 2016-3-29<br />
++ [新版卖家中心 Bigpipe 实践（二） | Taobao FED | 淘宝前端团队](http://taobaofed.org/blog/2016/03/25/seller-bigpipe-coding/?utm_source=tuicool&utm_medium=referral)<br />
++ [新版卖家中心 Bigpipe 实践（一） | Taobao FED | 淘宝前端团队](http://taobaofed.org/blog/2015/12/17/seller-bigpipe/)<br />
++ [BigPipe学习研究 « 搜索技术博客－淘宝](http://www.searchtb.com/2011/04/an-introduction-to-bigpipe.html)<br />
 + [JavaScript Rounding Recipes - 推酷](http://www.tuicool.com/articles/qiARzuf)<br />
 
 ### 2016-3-25<br />
