@@ -1,3 +1,7 @@
+### 2016-4-5<br />
++ [自述 | Redux 中文文档](http://cn.redux.js.org/index.html)<br />
++ [Tree-shaking versus dead code elimination — Medium](https://medium.com/@Rich_Harris/tree-shaking-versus-dead-code-elimination-d3765df85c80#.1ndfj9dqd)<br />
+
 ### 2016-3-31<br />
 + [小tip: 子元素scroll父元素容器不跟随滚动JS实现 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2015/12/element-scroll-prevent-parent-element-scroll-js/)<br />
 
