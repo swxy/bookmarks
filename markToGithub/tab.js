@@ -39,7 +39,7 @@ function renderStatus(statusText) {
 }
 
 function sendData(url, title) {
-  var sendUrl = 'http://tastudy.com:3175/receive?url=' + encodeURIComponent(url) + '&title=' + encodeURIComponent(title);
+  var sendUrl = 'http://localhost:8080?url=' + encodeURIComponent(url) + '&title=' + encodeURIComponent(title);
   var httpRequest = new XMLHttpRequest();
 
   if (!httpRequest) {

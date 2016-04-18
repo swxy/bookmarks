@@ -5,6 +5,7 @@ const fs = require('fs');
 const readline = require('readline');
 const querystring = require('querystring');
 const spawnSync = require('child_process').spawnSync;
+let currentMonth = new Date().getMonth() + 1;
 
 http.createServer((req, res) => {
 	let urlData = url.parse(req.url);
@@ -17,15 +18,15 @@ http.createServer((req, res) => {
 		code: 0,
 		msg : 'success'
 	}));
-}).listen(3175);
+}).listen(8080);
 
 
 function changeFilename () {
 	let fileName = 'README.md';
 	let name = '';
 	let date = new Date();
-	if (date.getDate() === 1) {
-		name = data.getFullYear() + '_' + data.getMonth() + '.md'
+	if (date.getMonth() + 1 !== currentMonth) {
+		name = date.getFullYear() + '-' + date.getMonth() + '.md';
 		try {
 			let state = fs.state(name);
 			!state.isFile() && fs.renameSync(fileName, name);
@@ -33,6 +34,7 @@ function changeFilename () {
 		catch (e){
 		    fs.renameSync(fileName, name);
 		}
+		currentMonth = date.getMonth() + 1;
 	}
 	return fileName;
 }
@@ -44,7 +46,7 @@ function isNewFile(filename) {
 		return result;
 	}
 	catch(e) {
-		console.error(e);
+		//console.error(e);
 		return false;
 	}
 }
@@ -119,4 +121,4 @@ setInterval(function(){
 	pushToGit(new Date().toString());
 }, 1000 * 60 * 60 * 2);
 
-console.log('server start at 3175');
+console.log('server start at 8080');
