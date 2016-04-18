@@ -1,3 +1,6 @@
+### 2016-4-18<br />
++ [介紹 | How-to-Be-A-Programmer-CN](https://ahangchen.gitbooks.io/how-to-be-a-programmer-cn/content/index.html)<br />
+
 ### 2016-4-6<br />
 + [What You Don’t Know About Calculating Percentage Margins In CSS - Hongkiat](http://www.hongkiat.com/blog/calculate-css-percentage-margins/)<br />
 
