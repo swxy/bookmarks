@@ -1,3 +1,6 @@
+### 2016-4-27<br />
++ [Android 开发值得订阅的日报和周刊 | Tikitoo Blog](http://tikitoo.me/2016/04/26/android-worth-subscribe-daily-weekly/?utm_source=tuicool&utm_medium=referral)<br />
+
 ### 2016-4-26<br />
 + [node源码系列 - 随笔分类 - 大树先生的面具 - 博客园](http://www.cnblogs.com/papertree/category/792592.html)<br />
 
