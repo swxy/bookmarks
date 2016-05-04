@@ -1,3 +1,6 @@
+### 2016-5-3<br />
++ [JS兼容多种模块规范，使用require加载JSLite方法 | JSLite.io](http://jslite.io/2015/08/02/js%E5%85%BC%E5%AE%B9%E5%A4%9A%E7%A7%8D%E6%A8%A1%E5%9D%97%E8%A7%84%E8%8C%83%EF%BC%8C%E4%BD%BF%E7%94%A8require%E5%8A%A0%E8%BD%BDJSLite%E6%96%B9%E6%B3%95/)<br />
+
 ### 2016-4-27<br />
 + [Android 开发值得订阅的日报和周刊 | Tikitoo Blog](http://tikitoo.me/2016/04/26/android-worth-subscribe-daily-weekly/?utm_source=tuicool&utm_medium=referral)<br />
 
