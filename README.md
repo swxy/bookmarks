@@ -1,3 +1,6 @@
+### 2016-5-10<br />
++ [图灵社区 : 阅读 : 前端高性能动画最佳实践](http://www.ituring.com.cn/article/214754)<br />
+
 ### 2016-5-4<br />
 + [Almost complete guide to flexbox (without flexbox) | Kenan Yusuf](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)<br />
 
