@@ -1,3 +1,8 @@
+### 2016-5-18<br />
++ [字符集和字符编码（Charset & Encoding） - 文章 - 伯乐在线](http://blog.jobbole.com/86813/)<br />
++ [字符编码常识及问题解析 - 文章 - 伯乐在线](http://blog.jobbole.com/76376/)<br />
++ [2.14.1 ASCII字符编码 - 51CTO.COM](http://book.51cto.com/art/201202/318141.htm)<br />
+
 ### 2016-5-17<br />
 + [29个前端工程师和设计师必备的Chrome插件 | @Get社区](http://get.ftqq.com/8215.get)<br />
 
