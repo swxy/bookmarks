@@ -1,4 +1,5 @@
 ### 2016-5-18<br />
++ [巩朋：我的算法学习之路 - 文章 - 伯乐在线](http://blog.jobbole.com/67348/)<br />
 + [字符集和字符编码（Charset & Encoding） - 文章 - 伯乐在线](http://blog.jobbole.com/86813/)<br />
 + [字符编码常识及问题解析 - 文章 - 伯乐在线](http://blog.jobbole.com/76376/)<br />
 + [2.14.1 ASCII字符编码 - 51CTO.COM](http://book.51cto.com/art/201202/318141.htm)<br />
