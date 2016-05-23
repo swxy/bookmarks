@@ -1,3 +1,7 @@
+### 2016-5-23<br />
++ [淘宝详情页的 BigRender 优化与存放大块 HTML 内容的最佳方式 | 岁月如歌](https://lifesinger.wordpress.com/2011/09/23/bigrender-for-taobao-item/)<br />
++ [漫谈流量劫持 | WooYun知识库](http://drops.wooyun.org/tips/15826)<br />
+
 ### 2016-5-22<br />
 + [教你实现图片的惰性加载 - 韩子迟 - 博客园](http://www.cnblogs.com/zichi/p/5021697.html)<br />
 + [焦虑是学习的最大障碍 - 文章 - 伯乐在线](http://blog.jobbole.com/101312/)<br />
