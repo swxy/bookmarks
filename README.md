@@ -1,3 +1,7 @@
+### 2016-5-22<br />
++ [焦虑是学习的最大障碍 - 文章 - 伯乐在线](http://blog.jobbole.com/101312/)<br />
++ [阅读方法：史上最全读书法](http://mp.weixin.qq.com/s?__biz=MjM5OTA3MjUwMA==&mid=205263526&idx=2&sn=21b5ca4a0699153f36131d3983a5f7d1#rd)<br />
+
 ### 2016-5-18<br />
 + [巩朋：我的算法学习之路 - 文章 - 伯乐在线](http://blog.jobbole.com/67348/)<br />
 + [字符集和字符编码（Charset & Encoding） - 文章 - 伯乐在线](http://blog.jobbole.com/86813/)<br />
