@@ -1,3 +1,7 @@
+### 2016-5-30<br />
++ [作为前端应当了解的Web缓存知识 - SDK.CN - 中国领先的开发者服务平台](https://www.sdk.cn/news/3548)<br />
++ [Chanhao Jiang And David Wei Presentation Quickling Pagecache](http://www.slideshare.net/ajaxexperience2009/chanhao-jiang-and-david-wei-presentation-quickling-pagecache)<br />
+
 ### 2016-5-23<br />
 + [The JavaScript Packaging Problem - Zero Wind :: Jamie Wong](http://jamie-wong.com/2014/11/29/the-js-packaging-problem/#fn:1)<br />
 + [淘宝详情页的 BigRender 优化与存放大块 HTML 内容的最佳方式 | 岁月如歌](https://lifesinger.wordpress.com/2011/09/23/bigrender-for-taobao-item/)<br />
