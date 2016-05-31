@@ -1,3 +1,6 @@
+### 2016-5-31<br />
++ [理解CSS3 max/min-content及fit-content等width值 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2016/05/css3-width-max-contnet-min-content-fit-content/)<br />
+
 ### 2016-5-30<br />
 + [作为前端应当了解的Web缓存知识 - SDK.CN - 中国领先的开发者服务平台](https://www.sdk.cn/news/3548)<br />
 + [Chanhao Jiang And David Wei Presentation Quickling Pagecache](http://www.slideshare.net/ajaxexperience2009/chanhao-jiang-and-david-wei-presentation-quickling-pagecache)<br />
