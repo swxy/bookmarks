@@ -1,3 +1,6 @@
+### 2016-6-6<br />
++ [为什么说DOM操作很慢](https://leozdgao.me/why-dom-slow/)<br />
+
 ### 2016-6-3<br />
 + [使用 nvm 管理不同版本的 node 与 npm - 推酷](http://www.tuicool.com/articles/Vzquy2)<br />
 
