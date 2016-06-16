@@ -1,3 +1,6 @@
+### 2016-6-16<br />
++ [highlight-selected](https://atom.io/packages/highlight-selected)<br />
+
 ### 2016-6-15<br />
 + [使用CSS完成元素居中的七种方法 - 众成翻译](http://www.zcfy.cc/article/439)<br />
 
