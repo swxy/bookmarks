@@ -1,4 +1,5 @@
 ### 2016-6-16<br />
++ [成为一个好的译者：我的翻译心得 - 十年踪迹的博客](https://www.h5jun.com/post/to-be-a-good-translator.html)<br />
 + [highlight-selected](https://atom.io/packages/highlight-selected)<br />
 
 ### 2016-6-15<br />
