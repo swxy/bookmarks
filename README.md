@@ -1,3 +1,7 @@
+### 2016-6-20<br />
++ [» Autofill: What web devs should know, but don’t Cloud Four Blog](http://blog.cloudfour.com/autofill-what-web-devs-should-know-but-dont/)<br />
++ [The npm Blog — npm and front-end packaging](http://blog.npmjs.org/post/101775448305/npm-and-front-end-packaging)<br />
+
 ### 2016-6-16<br />
 + [成为一个好的译者：我的翻译心得 - 十年踪迹的博客](https://www.h5jun.com/post/to-be-a-good-translator.html)<br />
 + [highlight-selected](https://atom.io/packages/highlight-selected)<br />
