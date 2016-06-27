@@ -1,4 +1,6 @@
 ### 2016-6-27<br />
++ [Slide](http://slides.barretlee.com/index.html?talk-about-how-to-grow-in-the-work#0)<br />
++ [JavaScript 节流函数 Throttle 详解 - Something](https://keelii.github.io/2016/06/11/javascript-throttle/)<br />
 + [《移动端点击、触碰随记》作者：郑淳 来自大搜车前端团队博客](http://f2e.souche.com/blog/-yi-dong-duan-dian-ji-hong-peng-sui-ji/)<br />
 
 ### 2016-6-20<br />
