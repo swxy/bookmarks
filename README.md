@@ -1,4 +1,5 @@
 ### 2016-7-11<br />
++ [来自于编程大师的职业建议：别老想着写码（by chajn） - 众成翻译](http://www.zcfy.cc/article/don-039-t-just-code-career-advice-from-the-programming-masters-javaworld-668.html)<br />
 + [一个靠谱的前端开源项目需要什么？ - UXCore - SegmentFault](https://segmentfault.com/a/1190000005859766)<br />
 
 ### 2016-7-7<br />
