@@ -1,3 +1,6 @@
+### 2016-7-19<br />
++ [Centering in CSS: A Complete Guide | CSS-Tricks](https://css-tricks.com/centering-css-complete-guide/)<br />
+
 ### 2016-7-18<br />
 + [移动前端开发之viewport的深入理解 - 无双 - 博客园](http://www.cnblogs.com/2050/p/3877280.html)<br />
 
