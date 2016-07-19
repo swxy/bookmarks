@@ -1,3 +1,6 @@
+### 2016-7-18<br />
++ [移动前端开发之viewport的深入理解 - 无双 - 博客园](http://www.cnblogs.com/2050/p/3877280.html)<br />
+
 ### 2016-7-14<br />
 + [一步一步教你用 Vue.js + Vuex 制作专门收藏微信公众号的 app - WEB前端 - 伯乐在线](http://web.jobbole.com/87011/)<br />
 
