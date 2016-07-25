@@ -1,3 +1,7 @@
+### 2016-7-25<br />
++ [工作五年，后面四年重复着第一年的活儿？ | 小胡子哥的个人网站](http://www.barretlee.com/blog/2016/07/21/donnot-repeat-yourself/)<br />
++ [选择一个 HTTP 状态码不再是一件难事 – Racksburg（by 十年踪迹） - 众成翻译](http://www.zcfy.cc/article/choosing-an-http-status-code-stop-making-it-hard-8211-racksburg-904.html)<br />
+
 ### 2016-7-19<br />
 + [Centering in CSS: A Complete Guide | CSS-Tricks](https://css-tricks.com/centering-css-complete-guide/)<br />
 
