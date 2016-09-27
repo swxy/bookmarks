@@ -1,3 +1,6 @@
+### 2016-9-26<br />
++ [JavaScript template engine in just 20 lines](http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line)<br />
+
 ### 2016-9-20<br />
 + [深入理解JavaScript原型：prototype,__proto__和constructor](http://ihardcoder.github.io/js/2015/09/09/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3JavaScript%E5%8E%9F%E5%9E%8B%EF%BC%9Aprototype,__proto__%E5%92%8Cconstructor.html)<br />
 + [编程的智慧](http://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy)<br />
