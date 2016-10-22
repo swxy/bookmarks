@@ -1,3 +1,6 @@
+### 2016-10-22<br />
++ [The Basics Of ES6 Generators](https://davidwalsh.name/es6-generators)<br />
+
 ### 2016-10-20<br />
 + [HTTP 代理原理及实现（一） | JerryQu 的小站](https://imququ.com/post/web-proxy.html)<br />
 
