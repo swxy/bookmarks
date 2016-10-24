@@ -1,3 +1,6 @@
+### 2016-10-24<br />
++ [JavaScript has a Unicode problem · Mathias Bynens](https://mathiasbynens.be/notes/javascript-unicode)<br />
+
 ### 2016-10-22<br />
 + [The Basics Of ES6 Generators](https://davidwalsh.name/es6-generators)<br />
 
