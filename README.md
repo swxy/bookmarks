@@ -1,3 +1,6 @@
+### 2016-10-25<br />
++ [HetfieldJoe - 简书](http://www.jianshu.com/users/4801d203ede4/latest_articles)<br />
+
 ### 2016-10-24<br />
 + [JavaScript has a Unicode problem · Mathias Bynens](https://mathiasbynens.be/notes/javascript-unicode)<br />
 
