@@ -1,3 +1,6 @@
+### 2016-10-27<br />
++ [分布式队列编程优化篇 -](http://tech.meituan.com/distributed_queue_based_programming-optimization.html)<br />
+
 ### 2016-10-25<br />
 + [HetfieldJoe - 简书](http://www.jianshu.com/users/4801d203ede4/latest_articles)<br />
 
