@@ -1,3 +1,6 @@
+### 2016-10-31<br />
++ [reactjs源码分析-上篇（首次渲染实现原理） | blog of purplebamboo](http://purplebamboo.github.io/2015/09/15/reactjs_source_analyze_part_one/)<br />
+
 ### 2016-10-27<br />
 + [分布式队列编程优化篇 -](http://tech.meituan.com/distributed_queue_based_programming-optimization.html)<br />
 
