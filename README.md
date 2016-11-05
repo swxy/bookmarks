@@ -1,4 +1,5 @@
 ### 2016-11-4<br />
++ [使用 lua 编写 socks5 代理 | 水能载舟 亦可赛艇](https://lengzzz.com/note/socks5-proxy-in-lua)<br />
 + [实战 SSH 端口转发](http://www.ibm.com/developerworks/cn/linux/l-cn-sshforward/)<br />
 + [shadowsocks-android源码解析 | tomchen&fleur.wang's moving castle](http://ct2wj.com/2016/02/28/shadowsocks-android-source-code-analysis/)<br />
 + [科学上网的一些原理 | Hengyunabc Blog](https://hengyunabc.github.io/something-about-science-surf-the-internet/)<br />
