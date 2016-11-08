@@ -1,3 +1,6 @@
+### 2016-11-8<br />
++ [Regular-Expressions.info - Regex Tutorial, Examples and Reference - Regexp Patterns](http://www.regular-expressions.info/)<br />
+
 ### 2016-11-7<br />
 + [细说 webpack 之流程篇 | Taobao FED | 淘宝前端团队](http://taobaofed.org/blog/2016/09/09/webpack-flow/)<br />
 
