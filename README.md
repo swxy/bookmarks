@@ -1,4 +1,5 @@
 ### 2016-11-8<br />
++ [图灵社区 : 阅读 : 【翻译】Promises/A+规范](http://www.ituring.com.cn/article/66566)<br />
 + [Regular-Expressions.info - Regex Tutorial, Examples and Reference - Regexp Patterns](http://www.regular-expressions.info/)<br />
 
 ### 2016-11-7<br />
