@@ -1,3 +1,6 @@
+### 2016-11-7<br />
++ [细说 webpack 之流程篇 | Taobao FED | 淘宝前端团队](http://taobaofed.org/blog/2016/09/09/webpack-flow/)<br />
+
 ### 2016-11-4<br />
 + [使用 lua 编写 socks5 代理 | 水能载舟 亦可赛艇](https://lengzzz.com/note/socks5-proxy-in-lua)<br />
 + [实战 SSH 端口转发](http://www.ibm.com/developerworks/cn/linux/l-cn-sshforward/)<br />
