@@ -1,3 +1,6 @@
+### 2016-11-13<br />
++ [Programming Principles](http://webpro.github.io/programming-principles/?utm_campaign=CodeTengu&utm_medium=email&utm_source=CodeTengu_68#boy-scout-rule)<br />
+
 ### 2016-11-9<br />
 + [专题 | JerryQu 的小站](https://imququ.com/series.html#toc-7)<br />
 
