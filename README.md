@@ -1,3 +1,6 @@
+### 2016-11-17<br />
++ [You, Me And The Emoji: Character Sets, Encoding And Emoji – Smashing Magazine](https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/?utm_source=frontendfocus&utm_medium=email)<br />
+
 ### 2016-11-13<br />
 + [关于 React Native，您想知道的都在这里了 - OSC源创君的个人空间 - 开源中国社区](https://my.oschina.net/osccreate/blog/778348)<br />
 
