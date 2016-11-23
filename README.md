@@ -1,3 +1,6 @@
+### 2016-11-22<br />
++ [Node.js at Scale - Node.js Garbage Collection Explained | @RisingStack](https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/)<br />
+
 ### 2016-11-17<br />
 + [You, Me And The Emoji: Character Sets, Encoding And Emoji – Smashing Magazine](https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/?utm_source=frontendfocus&utm_medium=email)<br />
 
