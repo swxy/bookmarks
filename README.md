@@ -1,3 +1,6 @@
+### 2016-11-28<br />
++ [产品如人——微信产品经理眼中的微信价值观 | 爱范儿](http://www.ifanr.com/753898)<br />
+
 ### 2016-11-22<br />
 + [Node.js at Scale - Node.js Garbage Collection Explained | @RisingStack](https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/)<br />
 
