@@ -18,7 +18,7 @@ http.createServer((req, res) => {
 		code: 0,
 		msg : 'success'
 	}));
-}).listen(8080);
+}).listen(3117);
 
 
 function changeFilename () {
@@ -121,4 +121,4 @@ setInterval(function(){
 	pushToGit(new Date().toString());
 }, 1000 * 60 * 60 * 2);
 
-console.log('server start at 8080');
+console.log('server start at 3117');
