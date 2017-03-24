@@ -1,4 +1,7 @@
 
+### 2017-3-24<br />
++ [Beyond The Browser: From Web Apps To Desktop Apps – Smashing Magazine](https://www.smashingmagazine.com/2017/03/beyond-browser-web-desktop-apps/?utm_source=javascriptweekly&utm_medium=email)<br />
+
 ### 2017-3-22<br />
 + [rajaraodv/react-redux-blog: A sample React Redux CRUD app](https://github.com/rajaraodv/react-redux-blog)<br />
 
