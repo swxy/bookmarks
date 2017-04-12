@@ -1,4 +1,5 @@
 ### 2017-4-12<br />
++ [Performance Calendar » React’s diff algorithm](https://calendar.perfplanet.com/2013/diff/)<br />
 + [The invisible parts of CSS · MadebyMike](https://madebymike.com.au/writing/the-invisible-parts-of-CSS/)<br />
 
 ### 2017-4-10<br />
