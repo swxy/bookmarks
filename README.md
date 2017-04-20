@@ -1,3 +1,6 @@
+### 2017-4-20<br />
++ [algorithm - Detect differences between tree structures - Stack Overflow](http://stackoverflow.com/questions/5894879/detect-differences-between-tree-structures)<br />
+
 ### 2017-4-18<br />
 + [浏览器缓存机制剖析 | louis blog](http://louiszhai.github.io/2017/04/07/http-cache/)<br />
 
