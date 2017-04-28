@@ -1,3 +1,6 @@
+### 2017-4-28<br />
++ [4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/)<br />
+
 ### 2017-4-26<br />
 + [Modernizing the DOM tree in Microsoft Edge - Microsoft Edge Dev BlogMicrosoft Edge Dev Blog](https://blogs.windows.com/msedgedev/2017/04/19/modernizing-dom-tree-microsoft-edge/#BzzCEpktWojmjX2F.97)<br />
 + [大卫谈学习4：为何你会一年经验用十年？ - 大卫张33 - 51CTO技术博客](http://davidzhang33.blog.51cto.com/3095817/1313940)<br />
