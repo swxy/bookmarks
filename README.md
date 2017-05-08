@@ -1,3 +1,7 @@
+### 2017-5-8<br />
++ [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)<br />
++ [现代浏览器的工作原理 - 文章 - 伯乐在线](http://blog.jobbole.com/12749/)<br />
+
 ### 2017-5-4<br />
 + [普通工程师和高级工程师的差别在哪里？如何快速突破？ - 腾云阁 - 腾讯云](https://www.qcloud.com/community/article/780807)<br />
 
