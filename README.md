@@ -1,3 +1,6 @@
+### 2017-5-21<br />
++ [如何方便快捷的进行 node-addons 开发 – 随手一笔](http://www.orrafy.com/posts/my/node-addons)<br />
+
 ### 2017-5-18<br />
 + [How I fixed libuv - davidvgalbraith](http://davidvgalbraith.com/how-i-fixed-libuv/)<br />
 
