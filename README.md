@@ -1,3 +1,6 @@
+### 2017-5-22<br />
++ [新人指导心得体会](http://zhenhua-lee.github.io/manmage/mentor.html)<br />
+
 ### 2017-5-21<br />
 + [如何方便快捷的进行 node-addons 开发 – 随手一笔](http://www.orrafy.com/posts/my/node-addons)<br />
 
