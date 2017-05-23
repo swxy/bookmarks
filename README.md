@@ -1,3 +1,6 @@
+### 2017-5-23<br />
++ [Architecture of Node.js’ Internal Codebase – Yet Another Node.js Blog](https://arenli.com/architecture-of-node-js-internal-codebase-57cd8376b71f)<br />
+
 ### 2017-5-22<br />
 + [新人指导心得体会](http://zhenhua-lee.github.io/manmage/mentor.html)<br />
 
