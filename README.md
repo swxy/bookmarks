@@ -1,3 +1,7 @@
+### 2017-6-12<br />
++ [Build Your First Thing With WebAssembly - Culture of Development](http://cultureofdevelopment.com/blog/build-your-first-thing-with-web-assembly/?utm_campaign=CodeTengu&utm_medium=email&utm_source=CodeTengu_92)<br />
++ [7 Things You Should Know About WebAssembly](https://auth0.com/blog/7-things-you-should-know-about-web-assembly/?utm_campaign=CodeTengu&utm_medium=email&utm_source=CodeTengu_92)<br />
+
 ### 2017-6-11<br />
 + [单点登录的三种实现方式 - CNode技术社区](https://cnodejs.org/topic/55f6e69904556da7553d20dd)<br />
 
