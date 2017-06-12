@@ -1,3 +1,6 @@
+### 2017-6-11<br />
++ [单点登录的三种实现方式 - CNode技术社区](https://cnodejs.org/topic/55f6e69904556da7553d20dd)<br />
+
 ### 2017-6-8<br />
 + [What No One Told You About Z-Index — Philip Walton](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)<br />
 
