@@ -1,3 +1,6 @@
+### 2017-6-20<br />
++ [侯振宇 - 博客园](http://www.cnblogs.com/sskyy/)<br />
+
 ### 2017-6-13<br />
 + [可信前端之路-代码保护-阿里聚安全](http://jaq.alibaba.com/community/art/show?&articleid=503)<br />
 + [移动时代的前端加密 - Div.IO](http://div.io/topic/1220)<br />
