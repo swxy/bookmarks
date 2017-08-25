@@ -1,3 +1,6 @@
+### 2017-8-25<br />
++ [前端每周清单半年盘点之 React 与 ReactNative 篇 - 知乎专栏](https://zhuanlan.zhihu.com/p/28560073?group_id=881203046896508928)<br />
+
 ### 2017-8-24<br />
 + [你的深度思考能力，是如何一步步被毁掉的？](https://mp.weixin.qq.com/s?__biz=MjM5OTM5OTAyMQ==&mid=2654432204&idx=2&sn=500226618baca34142ca9ec40a15c79e)<br />
 
