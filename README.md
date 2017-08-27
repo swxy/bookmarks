@@ -1,3 +1,8 @@
+### 2017-8-27<br />
++ [【前端性能】高性能滚动 scroll 及页面渲染优化 - ChokCoco - 博客园](http://www.cnblogs.com/coco1s/p/5499469.html)<br />
++ [Infinite Scrolling Best Practices](https://uxplanet.org/infinite-scrolling-best-practices-c7f24c9af1d)<br />
++ [设计高性能无限滚动加载，了解高效页面秘密 | exp team](https://exp-team.github.io/blog/2017/02/25/js/infinite-scroll/)<br />
+
 ### 2017-8-25<br />
 + [前端每周清单半年盘点之 React 与 ReactNative 篇 - 知乎专栏](https://zhuanlan.zhihu.com/p/28560073?group_id=881203046896508928)<br />
 
