@@ -1,3 +1,6 @@
+### 2017-8-30<br />
++ [CORS跨域资源共享你该知道的事儿](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247483814&idx=1&sn=6fa914f7777fcc5a3a7961a37b84429b)<br />
+
 ### 2017-8-27<br />
 + [【前端性能】高性能滚动 scroll 及页面渲染优化 - ChokCoco - 博客园](http://www.cnblogs.com/coco1s/p/5499469.html)<br />
 + [Infinite Scrolling Best Practices](https://uxplanet.org/infinite-scrolling-best-practices-c7f24c9af1d)<br />
