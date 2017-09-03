@@ -1,3 +1,6 @@
+### 2017-9-3<br />
++ [Building Touch Interfaces with HTML5: Develop and Design](http://ptgmedia.pearsoncmg.com/images/9780321887658/samplepages/0321887654.pdf)<br />
+
 ### 2017-8-30<br />
 + [从软件工程角度看大前端技术栈](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NjI2Nw==&mid=2652559282&idx=1&sn=9b695d8f9fb5313a623e38e75c894b39)<br />
 + [CORS跨域资源共享你该知道的事儿](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247483814&idx=1&sn=6fa914f7777fcc5a3a7961a37b84429b)<br />
