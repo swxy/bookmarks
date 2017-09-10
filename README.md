@@ -1,3 +1,6 @@
+### 2017-9-10<br />
++ [Tasks, microtasks, queues and schedules - JakeArchibald.com](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)<br />
+
 ### 2017-9-6<br />
 + [也来说说touch事件与点击穿透问题 - 阿冒的前端之路 - SegmentFault](https://segmentfault.com/a/1190000003848737)<br />
 + [大前端公共知识梳理：这些知识你都掌握了吗？](https://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247485277&idx=1&sn=82703e13febb1e7947cc18d1f57fc375&chksm=9723659fa054ec892dbf8188f0c5610d431dc1275eb84db829fccf394bd795e9b9a4aa74d003&mpshare=1&scene=23&srcid=0625maMWOy3ZeCOAJZhSjLvm#rd)<br />
