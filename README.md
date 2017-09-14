@@ -1,3 +1,6 @@
+### 2017-9-14<br />
++ [How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)<br />
+
 ### 2017-9-12<br />
 + [移动H5前端性能优化指南 - 前端技术 - 腾讯ISUX](https://isux.tencent.com/h5-performance.html)<br />
 
