@@ -1,3 +1,6 @@
+### 2017-10-8<br />
++ [https://caspervonb.github.io/toneofsorting/](https://caspervonb.github.io/toneofsorting/)<br />
+
 ### 2017-9-14<br />
 + [How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)<br />
 
