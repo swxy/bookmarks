@@ -1,3 +1,6 @@
+### 2017-12-19<br />
++ [Performance Calendar » Clearing cache in the browser](https://calendar.perfplanet.com/2017/clearing-cache-in-the-browser/)<br />
+
 ### 2017-11-27<br />
 + [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)<br />
 
