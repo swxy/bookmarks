@@ -1,3 +1,6 @@
+### 2018-1-19<br />
++ [菜鸟网络前端全栈化之路_前端之巅_传送门](http://chuansong.me/n/2146235952511)<br />
+
 ### 2018-1-15<br />
 + [轻推转型之门：Ant Design Pro 在企业级产品的实践（附演讲视频）](https://zhuanlan.zhihu.com/p/32771546)<br />
 + [从前端技术到体验科技（附演讲视频）](https://zhuanlan.zhihu.com/p/32782686)<br />
