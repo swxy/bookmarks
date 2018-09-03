@@ -1,9 +1,11 @@
+#!/usr/bin/env node
 "use strict"
 const http = require('http');
 const url = require('url');
 const fs = require('fs');
 const readline = require('readline');
 const querystring = require('querystring');
+const path = require('path');
 const spawnSync = require('child_process').spawnSync;
 let currentMonth = new Date().getMonth() + 1;
 
@@ -11,12 +13,16 @@ http.createServer((req, res) => {
 	let urlData = url.parse(req.url);
 	//console.dir(urlData);
 	let queryObj = querystring.parse(urlData.query);
-	console.dir(queryObj);
+	//console.dir(queryObj);
 	queryObj.title && queryObj.url && writeToMarkdown(queryObj);
 	res.writeHead(204, {"Content-Type": "image/jpeg"});
 	res.end();
 }).listen(3117);
 
+
+function resolve(filename) {
+	return path.resolve(__dirname, filename);
+}
 
 function getFilename () {
 	let fileName = 'README.md';
@@ -25,11 +31,12 @@ function getFilename () {
 	if (date.getMonth() + 1 !== currentMonth) {
 		name = date.getFullYear() + '-' + date.getMonth() + '.md';
 		try {
-			let state = fs.statSync(name);
-			!state.isFile() && fs.renameSync(fileName, name);
+			let state = fs.statSync(resolve(name));
+			!state.isFile() && fs.renameSync(resolve(fileName), resolve(name));
+			console.log('rename: ', fileName, ' to ', name, ' @', date);
 		}
 		catch (e){
-		    fs.renameSync(fileName, name);
+		    fs.renameSync(resolve(fileName), resolve(name));
 		}
 		currentMonth = date.getMonth() + 1;
 	}
@@ -38,7 +45,7 @@ function getFilename () {
 
 function isNewFile(filename) {
 	try {
-		let fileState = fs.statSync(filename);
+		let fileState = fs.statSync(resolve(filename));
 		return fileState.isFile();
 	}
 	catch(e) {
@@ -48,10 +55,10 @@ function isNewFile(filename) {
 }
 
 function writeToFile(filename, data) {
-	fs.writeFile(filename, data, (err) => {
+	fs.writeFile(resolve(filename), data, (err) => {
 		if (err) console.err(err);
-		console.log('saved ' + filename);
-		//pushToGit(title);
+		// console.log('saved ' + filename);
+		// pushToGit(title);
 	});
 }
 
@@ -75,7 +82,7 @@ function writeToMarkdown(obj) {
 		return;
 	}
 	const rl = readline.createInterface({
-	    input: fs.createReadStream(fileName)
+	    input: fs.createReadStream(resolve(fileName))
 	});
 
 	rl.on('line', (line) => {
@@ -117,4 +124,4 @@ setInterval(function(){
 	pushToGit(new Date().toString());
 }, 1000 * 60 * 60 * 3);
 
-console.log('server start at 3117');
+// console.log('server start at 3117');
