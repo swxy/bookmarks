@@ -106,22 +106,29 @@ function writeToMarkdown(obj) {
 }
 
 function pushToGit(title) {
-  title = title || '';
-	const cmds = [
-	    ['git', ['add', '.']],
-	    ['git', ['commit', '-am', `"add ${title}"`]],
-	    ['git', ['pull', '--rebase']],
-	    ['git', ['push', 'origin', 'master']]
-	];
-	cmds.forEach((cmd) => {
-		let result = spawnSync(cmd[0], cmd[1]);
-		console.log(result.output.join('\n'));
-	});
+	try {
+		process.chdir(__dirname);
+    title = title || '';
+    const cmds = [
+      ['git', ['add', '.']],
+      ['git', ['commit', '-am', `"add ${title}"`]],
+      ['git', ['pull', '--rebase']],
+      ['git', ['push', 'origin', 'master']]
+    ];
+    cmds.forEach((cmd) => {
+      let result = spawnSync(cmd[0], cmd[1]);
+      console.log(result.output.join('\n'));
+    });
+  }
+  catch (e) {
+		console.error(e);
+  }
 }
 
 setInterval(function(){
 	console.log('push to github');
-	pushToGit(new Date().toString());
+	pushToGit(new Date().toLocaleString());
 }, 1000 * 60 * 60 * 3);
 
+pushToGit(new Date().toLocaleString());
 // console.log('server start at 3117');

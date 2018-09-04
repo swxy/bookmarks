@@ -1,4 +1,9 @@
+### 2018-9-4 <br/>
++ [[翻译]使用Flash进行JSON CSRF攻击-『外文翻译』-看雪安全论坛](https://bbs.pediy.com/thread-221693.htm) <br/>
+    [翻译]使用Flash进行JSON CSRF攻击 <br/>
 ### 2018-9-3 <br/>
++ [程序员职业生涯的6个阶段](https://zhuanlan.zhihu.com/p/43597829) <br/>
+    有问题，上知乎。知乎是中文互联网知名知识分享平台，以「知识连接一切」为愿景，致力于构建一个人人都可以便捷接入的知识分享网络，让人们便捷地与世界分享知识、经验和见解，发现更大的世界。 <br/>
 + [V8 JavaScript Engine: Liftoff: a new baseline compiler for WebAssembly in V8](https://v8project.blogspot.com/2018/08/liftoff.html) <br/>
 ### 2018-9-2 <br/>
 + [Mac设置开机启动 - 简书](https://www.jianshu.com/p/49dabd8ec9bb) <br/>
