@@ -7,7 +7,7 @@ const readline = require('readline');
 const querystring = require('querystring');
 const path = require('path');
 const spawnSync = require('child_process').spawnSync;
-let currentMonth = new Date().getMonth() + 1;
+let currentYearAndMonth = getCurrentYearAndMonth();
 
 http.createServer((req, res) => {
 	let urlData = url.parse(req.url);
@@ -24,21 +24,43 @@ function resolve(filename) {
 	return path.resolve(__dirname, filename);
 }
 
+function getCurrentYearAndMonth() {
+	try {
+    const content = fs.readFileSync(resolve('README.md')) || '';
+    const matched = content.toString().match(/(\d{4}-\d{1,2})-\d{1,2}/);
+		if (matched) {
+			return matched[1];
+		}
+		else {
+			return getYearAndMonth();
+		}
+	}
+	catch (e) {
+		console.error(e);
+  }
+}
+
+function getYearAndMonth() {
+  const date = new Date();
+  return  `${date.getFullYear()}-${date.getMonth()+1}`;
+}
+
 function getFilename () {
 	let fileName = 'README.md';
 	let name = '';
-	let date = new Date();
-	if (date.getMonth() + 1 !== currentMonth) {
-		name = date.getFullYear() + '-' + date.getMonth() + '.md';
+	let now = getYearAndMonth();
+	// 如果当前时间和readme的年月符合
+	if (now !== currentYearAndMonth) {
+		name = currentYearAndMonth + '.md';
 		try {
 			let state = fs.statSync(resolve(name));
 			!state.isFile() && fs.renameSync(resolve(fileName), resolve(name));
-			console.log('rename: ', fileName, ' to ', name, ' @', date);
+			console.log('rename: ', fileName, ' to ', name, ' @', now);
 		}
 		catch (e){
 		    fs.renameSync(resolve(fileName), resolve(name));
 		}
-		currentMonth = date.getMonth() + 1;
+    currentYearAndMonth = now;
 	}
 	return fileName;
 }
@@ -130,5 +152,5 @@ setInterval(function(){
 	pushToGit(new Date().toLocaleString());
 }, 1000 * 60 * 60 * 3);
 
-pushToGit(new Date().toLocaleString());
+// pushToGit(new Date().toLocaleString());
 // console.log('server start at 3117');
