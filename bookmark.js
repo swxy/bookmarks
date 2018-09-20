@@ -8,13 +8,19 @@ const querystring = require('querystring');
 const path = require('path');
 const spawnSync = require('child_process').spawnSync;
 let currentYearAndMonth = getCurrentYearAndMonth();
+// 缓存已经保持到，防止重复提交
+const cached = {};
 
 http.createServer((req, res) => {
 	let urlData = url.parse(req.url);
 	//console.dir(urlData);
 	let queryObj = querystring.parse(urlData.query);
 	//console.dir(queryObj);
+	if (cached[queryObj.url]) {
+		return;
+	}
 	queryObj.title && queryObj.url && writeToMarkdown(queryObj);
+	cached[queryObj.url] = true;
 	res.writeHead(204, {"Content-Type": "image/jpeg"});
 	res.end();
 }).listen(3117);

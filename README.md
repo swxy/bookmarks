@@ -1,4 +1,9 @@
 ### 2018-9-20 <br/>
++ [一张图理解Flexbox的3个核心属性 - 为之漫笔](https://lisongfeng.cn/post/understanding-3-main-properties-of-flexbox-in-one-figure.html) <br/>
+    记录工作学习生活的点点滴滴 <br/>
++ [Mathematical Intuition Behind Bezier Curves – Building VTS](https://buildingvts.com/mathematical-intuition-behind-bezier-curves-2ea4e9645681) <br/>
+    Bezier curves are great tools to represent curvatures and have many applications such as computer graphics, fonts, and animations. If you’ve dealt with CSS before, you’ve probably ran into Bezier… <br/>
++ [Flexbox，终于可以承认自己明白了](https://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650587826&idx=1&sn=785aa994a3f046f55c21b2c147863967) <br/>
 + [关于动画，你需要知道的 - 奇舞团博客](https://75team.com/post/animations-you-should-know.html) <br/>
     奇舞团 | 奇虎360旗下前端开发团队 <br/>
 + [CSS vs JS动画：谁更快？ - w3ctech](https://www.w3ctech.com/topic/1401) <br/>
