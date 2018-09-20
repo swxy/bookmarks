@@ -1,3 +1,6 @@
+### 2018-9-20 <br/>
++ [关于动画，你需要知道的 - 奇舞团博客](https://75team.com/post/animations-you-should-know.html) <br/>
+    奇舞团 | 奇虎360旗下前端开发团队 <br/>
 ### 2018-9-19 <br/>
 + [requestAnimationFrame 方法你真的用对了吗？ - 前端经验分享 - SegmentFault 思否](https://segmentfault.com/a/1190000010229232) <br/>
     requestAnimationFrame 方法让我们可以在下一帧开始时调用指定函数。但是很多人可能不知道，不管三七二十一直接在 requestAnimationFrame 的回调函数里绘制动画会有一个问题。是什么问题呢？要理解这个问题，我们... <br/>
