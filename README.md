@@ -4,8 +4,6 @@
 + [浅析 requestAnimationFrame | Taobao FED | 淘宝前端团队](http://taobaofed.org/blog/2017/03/02/thinking-in-request-animation-frame/) <br/>
     相信现在绝大多数人在 JavaScript 中绘制动画已经在使用 requestAnimationFrame 了，关于 requestAnimationFrame 的种种就不多说了，关于这个 API 的资料，详见 http://www.w3.org/TR/animation-timing/，https://developer.mozilla.org/en/docs/Web/API/window. <br/>
 + [【前端性能】Web 动画帧率（FPS）计算 - ChokCoco - 博客园](https://www.cnblogs.com/coco1s/p/8029582.html) <br/>
-+ [【前端性能】Web 动画帧率（FPS）计算 - ChokCoco - 博客园](https://www.cnblogs.com/coco1s/p/8029582.html) <br/>
-+ [【前端性能】Web 动画帧率（FPS）计算 - ChokCoco - 博客园](https://www.cnblogs.com/coco1s/p/8029582.html) <br/>
 ### 2018-9-10 <br/>
 + [浏览器输入 URL 后发生了什么？](https://zhuanlan.zhihu.com/p/43369093) <br/>
     有问题，上知乎。知乎是中文互联网知名知识分享平台，以「知识连接一切」为愿景，致力于构建一个人人都可以便捷接入的知识分享网络，让人们便捷地与世界分享知识、经验和见解，发现更大的世界。 <br/>
