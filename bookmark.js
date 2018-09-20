@@ -9,7 +9,7 @@ const path = require('path');
 const spawnSync = require('child_process').spawnSync;
 let currentYearAndMonth = getCurrentYearAndMonth();
 // 缓存已经保持到，防止重复提交
-const cached = {};
+let cached = {};
 
 http.createServer((req, res) => {
 	let urlData = url.parse(req.url);
@@ -156,6 +156,8 @@ function pushToGit(title) {
 setInterval(function(){
 	console.log('push to github');
 	pushToGit(new Date().toLocaleString());
+	// push success and delete the cache
+	cached = {};
 }, 1000 * 60 * 60 * 3);
 
 // pushToGit(new Date().toLocaleString());
