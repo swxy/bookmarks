@@ -1,3 +1,13 @@
+### 2018-9-21 <br/>
++ [标签: Kafka | 技术世界](http://www.jasongj.com/tags/Kafka/) <br/>
+    undefined
+      
+        window.disqusProxy={
+          shortname: 'jasongj',
+          username: 'jasongj',
+          server: 'comments.jasongj.com',
+          port: 3724,
+          adminAvatar: '/av <br/>
 ### 2018-9-20 <br/>
 + [一张图理解Flexbox的3个核心属性 - 为之漫笔](https://lisongfeng.cn/post/understanding-3-main-properties-of-flexbox-in-one-figure.html) <br/>
     记录工作学习生活的点点滴滴 <br/>
