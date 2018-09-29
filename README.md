@@ -1,3 +1,7 @@
+### 2018-9-29 <br/>
++ [深入理解 Node.js Stream 内部机制 | Taobao FED | 淘宝前端团队](http://taobaofed.org/blog/2017/08/31/nodejs-stream/) <br/>
+    相信很多人对 Node.js 的 Stream 已经不陌生了，不论是请求流、响应流、文件流还是 socket 流，这些流的底层都是使用 stream 模块封装的，甚至我们平时用的最多的 console.log 打印日志也使用了它，不信你打开 Node.js runtime 的源码，看看 lib/console.js：
+12345678910111213function write(ignoreE <br/>
 ### 2018-9-21 <br/>
 + [一文读懂前端缓存](https://zhuanlan.zhihu.com/p/44789005) <br/>
     有问题，上知乎。知乎是中文互联网知名知识分享平台，以「知识连接一切」为愿景，致力于构建一个人人都可以便捷接入的知识分享网络，让人们便捷地与世界分享知识、经验和见解，发现更大的世界。 <br/>
