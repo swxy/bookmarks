@@ -1,3 +1,6 @@
+### 2018-10-12 <br/>
++ [Common Node8 mistakes in Lambda](https://serverless.com/blog/common-node8-mistakes-in-lambda/) <br/>
+    Here are some common mistakes people make when authoring Lambda functions with Node.js 8.10. <br/>
 ### 2018-10-9 <br/>
 + [通过javascript进行UTF-8编码 - 张亚涛 - SegmentFault 思否](https://segmentfault.com/a/1190000005794963) <br/>
     javascript程序是使用Unicode字符集编写的。Unicode是ASCII和Latin-1的超集，并支持地球上几乎所有的语言。ECMAScript3要求JavaScript必须支持Unicode2.1及后续版本，ECMAScript5则要求支持Unicode3及后续版本。... <br/>
