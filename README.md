@@ -1,3 +1,6 @@
+### 2018-10-24 <br/>
++ [如何居中一个元素（终结版） - 全栈工程师自我修养 - SegmentFault 思否](https://segmentfault.com/a/1190000016675252?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly) <br/>
+    利用 text-align: center 可以实现在块级元素内部的行内元素水平居中。此方法对inline、inline-block、inline-table和inline-flex元素水平居中都有效。 <br/>
 ### 2018-10-23 <br/>
 + [[链接帖] 各JavaScript引擎的简介，及相关资料/博客收集帖 - 资料 - 高级语言虚拟机 - ITeye群组](http://hllvm.group.iteye.com/group/topic/37596) <br/>
     之前一直有同学在问，于是开个帖来收集JavaScript引擎的资料链接。每个JavaScript引擎先简单写点我对它的了解，然后是资料和博客的链接。 链接顺序按其描述的功能在产品中出现的时间从新到旧排。 最终能做成个まとめ就好了，hmm。 慢慢更新。把以前收集的链接都转到这帖来。先从我写的发在自己博客和HLLVM群组这边的开始。欢迎回帖补充资料或提问讨论。 读的时候请考虑到发文时间——所有资料都只能 ... <br/>
