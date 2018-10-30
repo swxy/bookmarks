@@ -1,3 +1,7 @@
+### 2018-10-30 <br/>
++ [深入理解CSS3 Animation 帧动画 - 【艾伦】 - 博客园](http://www.cnblogs.com/aaronjs/p/4642015.html) <br/>
++ [CSS3动画实践 | Aotu.io「凹凸实验室」](https://aotu.io/notes/2016/01/04/css3-animation/index.html) <br/>
+    需求中常见的css3动画需求中常见的css3动画一般有补间动画（又叫“关键帧动画”）和逐帧动画两种，下面分别介绍：  补间动画/关键帧动画： 常用于实现位移、颜色（透明度）、大小、旋转、倾斜等变化。一般有Transitions和Keyframes animation两种方法实现补间动画。 Transitions：用于实现简单的动画，只有起始两帧过渡。多用于页面的交互操作，使交互效果更生动活泼。 <br/>
 ### 2018-10-24 <br/>
 + [如何居中一个元素（终结版） - 全栈工程师自我修养 - SegmentFault 思否](https://segmentfault.com/a/1190000016675252?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly) <br/>
     利用 text-align: center 可以实现在块级元素内部的行内元素水平居中。此方法对inline、inline-block、inline-table和inline-flex元素水平居中都有效。 <br/>
