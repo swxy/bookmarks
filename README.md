@@ -1,3 +1,7 @@
+### 2018-11-20 <br/>
++ [浅谈 SpringMVC 中各层职责的设计 - 掘金](https://juejin.im/post/5b1c8ca66fb9a01e266b8a9c) <br/>
+    SpringMVC SpringMVC应该是目前web开发最常用的框架。他的项目结构也相对固定，一般都会有以下几层。 controller层 service层 mapper接口层 实体层 可能还有什么 DTO VO 等层次。 这里主要讲下controlle <br/>
++ [MVC架构的职责划分原则 - 歪麦博客](https://www.awaimai.com/873.html) <br/>
 ### 2018-11-18 <br/>
 + [聊聊前端开发中的长列表 - 知乎](https://zhuanlan.zhihu.com/p/26022258) <br/>
 ### 2018-11-8 <br/>
