@@ -1,0 +1,1 @@
+((function(d, e) {let u = location;const desc = d.querySelector('[name=description]') || d.querySelector('[name=Description]');const dt = desc && desc.content || '';new Image().src = 'http://localhost:3117/create?url=' + e(u.href) + '&title=' + e(d.title) + '&desc=' + e(dt) + '&_t=' + new Date().getTime();})(document, encodeURIComponent))
