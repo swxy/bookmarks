@@ -1,3 +1,5 @@
+### 2019-5-20 <br/>
++ [JavaScript engine fundamentals: Shapes and Inline Caches · Mathias Bynens](https://mathiasbynens.be/notes/shapes-ics) <br/>
 ### 2019-5-9 <br/>
 + [深入理解CSS外边距折叠（Margin Collapse）](https://tech.youzan.com/css-margin-collapse/) <br/>
 + [蚂蚁研发效能](https://mp.weixin.qq.com/s?__biz=MzU3NzczMDI4Ng==&mid=2247483844&idx=1&sn=46b2ac7f61aa33dc0a3cadfb457d514c&chksm=fd016245ca76eb53985dca42ec05fbebddbfa1a8cedb885c863473a1289c56a718c0d7093a16&token=1135022039&lang=zh_CN#rd) <br/>
